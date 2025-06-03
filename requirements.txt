@@ -1,0 +1,3 @@
+# Versiones específicamente compatibles para evitar conflictos binarios
+numpy==1.24.4
+pandas==2.0.3
